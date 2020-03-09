@@ -71,3 +71,10 @@
 [[project site]](https://sapienzanlp.github.io/csi/)
 
 ### Preprints
+**Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings.**<br>
+*Gregor Wiedemann, Steffen Remus, Avi Chawla, Chris Biemann.*<br>
+[[paper]](https://arxiv.org/abs/1909.10430)
+
+**Sense Vocabulary Compression through the Semantic Knowledge of WordNet for Neural Word Sense Disambiguation.**<br>
+*Loïc Vial, Benjamin Lecouteux, Didier Schwab.*<br>
+[[paper]](https://arxiv.org/pdf/1905.05677.pdf)
