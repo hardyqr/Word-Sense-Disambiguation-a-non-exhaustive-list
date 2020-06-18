@@ -64,6 +64,12 @@
 **_(EMNLP 2019)_**<br>
 [[paper]](https://www.aclweb.org/anthology/D19-1009.pdf)
 
+
+**Sense Vocabulary Compression through the Semantic Knowledge of WordNet for Neural Word Sense Disambiguation.**<br>
+*Loïc Vial, Benjamin Lecouteux, Didier Schwab.*<br>
+**_(GWC 2019)_**
+[[paper]](https://arxiv.org/pdf/1905.05677.pdf)
+
 **SensEmBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation.**<br>
 *Bianca Scarlini, Tommaso Pasini, Roberto Navigli.*<br>
 **_(AAAI 2020)_**<br>
@@ -84,14 +90,10 @@
 **Moving Down the Long Tail of Word Sense Disambiguationwith Gloss Informed Bi-encoders.**<br>
 *Terra Blevins, Luke Zettlemoyer.*<br>
 **_(ACL 2020)_**<br>
-[[paper]](Moving Down the Long Tail of Word Sense Disambiguationwith Gloss Informed Bi-encoders)
+[[paper]](https://arxiv.org/pdf/2005.02590.pdf)
 [[code]](https://github.com/facebookresearch/wsd-biencoders)
 
 ### Preprints
 **Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings.**<br>
 *Gregor Wiedemann, Steffen Remus, Avi Chawla, Chris Biemann.*<br>
 [[paper]](https://arxiv.org/abs/1909.10430)
-
-**Sense Vocabulary Compression through the Semantic Knowledge of WordNet for Neural Word Sense Disambiguation.**<br>
-*Loïc Vial, Benjamin Lecouteux, Didier Schwab.*<br>
-[[paper]](https://arxiv.org/pdf/1905.05677.pdf)
