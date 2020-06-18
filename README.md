@@ -83,7 +83,7 @@
 [[project site]](https://sapienzanlp.github.io/csi/)
 
 **Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information.**<br>
-*Michele BevilacquaRoberto Navigli.*<br>
+*Michele Bevilacqua, Roberto Navigli.*<br>
 **_(ACL 2020)_**<br>
 [[paper]](https://www.researchgate.net/publication/341349731_Breaking_Through_the_80_Glass_Ceiling_Raising_the_State_of_the_Art_in_Word_Sense_Disambiguation_by_Incorporating_Knowledge_Graph_Information)
 
