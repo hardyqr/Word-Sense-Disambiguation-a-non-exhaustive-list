@@ -38,6 +38,7 @@
 *Sawan Kumar, Sharmistha Jat, Karan Saxena, Partha Talukdar.*<br>
 **_(ACL 2019)_**<br>
 [[paper]](https://www.aclweb.org/anthology/P19-1568.pdf)
+[[code]](https://github.com/malllabiisc/EWISE)
 
 **Just “OneSeC” for Producing Multilingual Sense-Annotated Data.**<br>
 *Bianca Scarlini, Tommaso Pasini, Roberto Navigli.*<br>
