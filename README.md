@@ -95,6 +95,10 @@
 [[code]](https://github.com/facebookresearch/wsd-biencoders)
 
 ### Preprints
+**Language Models and Word Sense Disambiguation: An Overview and Analysis.**<br>
+*Daniel Loureiro, Kiamehr Rezaee, Mohammad Taher Pilehvar, Jose Camacho-Collados.*<br>
+[[paper]](https://arxiv.org/pdf/2008.11608.pdf)
+
 **Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings.**<br>
 *Gregor Wiedemann, Steffen Remus, Avi Chawla, Chris Biemann.*<br>
 [[paper]](https://arxiv.org/abs/1909.10430)
