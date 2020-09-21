@@ -98,6 +98,7 @@
 *Daniel Loureiro, Jose Camacho-Collados.*<br>
 **_(EMNLP 2020)_**<br>
 [[paper]](https://arxiv.org/pdf/2004.14325)
+[[data&code]](http://danlou.github.io/uwa/)
 
 Don't Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation
 ### Preprints
