@@ -94,6 +94,12 @@
 [[paper]](https://arxiv.org/pdf/2005.02590.pdf)
 [[code]](https://github.com/facebookresearch/wsd-biencoders)
 
+**Don't Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation.**<br>
+*Daniel Loureiro, Jose Camacho-Collados.*<br>
+**_(EMNLP 2020)_**<br>
+[[paper]](https://arxiv.org/pdf/2004.14325)
+
+Don't Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation
 ### Preprints
 **Language Models and Word Sense Disambiguation: An Overview and Analysis.**<br>
 *Daniel Loureiro, Kiamehr Rezaee, Mohammad Taher Pilehvar, Jose Camacho-Collados.*<br>
