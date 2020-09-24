@@ -100,7 +100,7 @@
 [[paper]](https://arxiv.org/pdf/2004.14325)
 [[data&code]](http://danlou.github.io/uwa/)
 
-Don't Neglect the Obvious: On the Role of Unambiguous Words in Word Sense Disambiguation
+
 ### Preprints
 **Language Models and Word Sense Disambiguation: An Overview and Analysis.**<br>
 *Daniel Loureiro, Kiamehr Rezaee, Mohammad Taher Pilehvar, Jose Camacho-Collados.*<br>
