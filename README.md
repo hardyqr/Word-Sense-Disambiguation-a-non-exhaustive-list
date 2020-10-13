@@ -100,6 +100,12 @@
 [[paper]](https://arxiv.org/pdf/2004.14325)
 [[data&code]](http://danlou.github.io/uwa/)
 
+**With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation.**<br>
+*Bianca Scarlini, Tommaso Pasini, Roberto Navigli.*<br>
+**_(EMNLP 2020)_**<br>
+[[paper]](http://sensembert.org/resources/scarlini_etal_emnlp2020.pdf)
+[[website]](http://sensembert.org/#ares)
+
 
 ### Preprints
 **Language Models and Word Sense Disambiguation: An Overview and Analysis.**<br>
