@@ -113,7 +113,7 @@
 
 **Language Models and Word Sense Disambiguation: An Overview and Analysis.**<br>
 *Daniel Loureiro, Kiamehr Rezaee, Mohammad Taher Pilehvar, Jose Camacho-Collados.*<br>
-**__(Computational Linguistics 2021__)**
+**__(Computational Linguistics 2021__)**<br>
 [[paper]](https://arxiv.org/pdf/2008.11608.pdf)
 
 **FEWS: Large-Scale, Low-Shot Word Sense Disambiguation with the Dictionary.**<br>
