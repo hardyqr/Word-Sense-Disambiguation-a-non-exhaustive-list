@@ -28,6 +28,12 @@
 [[paper]](https://arxiv.org/pdf/1808.09121.pdf)
 [[project site]](https://pilehvar.github.io/wic/)
 
+**Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings.**<br>
+*Gregor Wiedemann, Steffen Remus, Avi Chawla, Chris Biemann.*<br>
+**_(Conference on Natural Language Processing (KONVENS) 2019)_**<br>
+[[paper]](https://arxiv.org/abs/1909.10430)
+[[code]](https://github.com/uhh-lt/bert-sense)
+
 **Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation.**<br>
 *Daniel Loureiro, Alípio Mário Jorge.*<br>
 **_(ACL 2019)_**<br>
@@ -65,10 +71,9 @@
 **_(EMNLP 2019)_**<br>
 [[paper]](https://www.aclweb.org/anthology/D19-1009.pdf)
 
-
 **Sense Vocabulary Compression through the Semantic Knowledge of WordNet for Neural Word Sense Disambiguation.**<br>
 *Loïc Vial, Benjamin Lecouteux, Didier Schwab.*<br>
-**_(GWC 2019)_**
+**_(Global Wordnet Conference (GWC) 2019)_**<br>
 [[paper]](https://arxiv.org/pdf/1905.05677.pdf)
 
 **SensEmBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation.**<br>
@@ -106,12 +111,22 @@
 [[paper]](http://sensembert.org/resources/scarlini_etal_emnlp2020.pdf)
 [[website]](http://sensembert.org/#ares)
 
-
-### Preprints
 **Language Models and Word Sense Disambiguation: An Overview and Analysis.**<br>
 *Daniel Loureiro, Kiamehr Rezaee, Mohammad Taher Pilehvar, Jose Camacho-Collados.*<br>
+**__(Computational Linguistics 2021__)**
 [[paper]](https://arxiv.org/pdf/2008.11608.pdf)
 
-**Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings.**<br>
-*Gregor Wiedemann, Steffen Remus, Avi Chawla, Chris Biemann.*<br>
-[[paper]](https://arxiv.org/abs/1909.10430)
+**FEWS: Large-Scale, Low-Shot Word Sense Disambiguation with the Dictionary.**<br>
+*Terra Blevins, Mandar Joshi, Luke Zettlemoyer.*<br>
+**_(EACL 2021)_**<br>
+[[paper]](https://www.aclweb.org/anthology/2021.eacl-main.36.pdf)
+[[website]](https://nlp.cs.washington.edu/fews/)
+[[code]](https://github.com/facebookresearch/fews)
+
+**Non-Parametric Few-Shot Learning for Word Sense Disambiguation.**<br>
+*Howard Chen, Mengzhou Xia, Danqi Chen.*<br>
+**_(NAACL 2021)_**<br>
+[[paper]](https://arxiv.org/pdf/2104.12677.pdf)
+[[code]](https://github.com/princeton-nlp/metric-wsd)
+
+
